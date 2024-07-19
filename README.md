@@ -14,13 +14,13 @@
 
 ## 🌟 Features
 
-Toxync is a modern Tox client built with Go, Wails, Svelte, and ShadCN UI components, offering a sleek and intuitive interface for secure, decentralized communication.
+`Toxync` is a modern [Tox client](https://tox.chat) built with [Go](https://go.dev), [Wails](https://wails.io/), [Svelte](https://svelte.dev/), and [ShadCN UI components](), offering a sleek and intuitive interface for secure, decentralized communication.
 
 - 🔒 **Secure & Private**: Leverages Tox's end-to-end encryption for ultimate privacy
 - 💬 **Real-time Chat**: Instant messaging with friends and groups
 - 🖼️ **Rich Media Support**: Share images, files, and more
 - 🌐 **Decentralized**: No central servers, direct peer-to-peer communication
-- 🎨 **Modern UI**: Sleek design with ShadCN UI components
+- 🎨 **Modern UI**: Sleek design using the `Svelte port` of the popular `ShadCN UI components`
 - 📱 **Cross-platform**: Available for Windows, macOS, and Linux
 
 ## 🚀 Installation
@@ -33,7 +33,7 @@ Toxync is a modern Tox client built with Go, Wails, Svelte, and ShadCN UI compon
 
 ## 🤝 Contributing
 
-We welcome contributions to Toxync! If you'd like to contribute, please follow these steps:
+See the [contributing document]()
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/amazing-feature`)
@@ -58,5 +58,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by [OTRLabs](https://github.com/OTRLabs)
 </div>

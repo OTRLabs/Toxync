@@ -1,0 +1,25 @@
+
+Alright. I am going to be, maybe a little annoying with how strict I am for this repo.
+
+But, I feel like I am inviting a degree of chaos into my life by taking on this project, as when it comes to the standard Tox protocol user, I am guessing the ratio of "normies" is low.
+
+Basically, I just need to set boundaries before anyone wastes time trying to contribute something that is... "not what I am looking for for this project", just be aware I am looking for contributions, but I do not want this to swamp my life. 
+
+short version is:
+
+> Landing a backdoor in a Tox client, even with a small userbase is likely desirable for the """Jia Tan types""" of the world, so with that being said, we will indeed be running this repo like the Navy.
+
+
+Please feel free to fork & do whatever, that is the beauty of Tox. I made the licence MIT.
+
+
+Automatic Denial:
+- does not properly use .gitignore to prevent cache, secrets, etc etc etc from being pushed. Basically if you have your node modules included, you may be better of just forking this & working on your own custom client because again. that is the beauty of Tox.
+
+
+
+
+
+Please Note: 
+
+I am not anywhere near as strict with contributions for other repos tied to this organization. I just would like to build a small user base for this app.
