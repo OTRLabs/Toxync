@@ -22,6 +22,10 @@
     "vite": "^5.3.4"
   },
   "dependencies": {
-    "path": "^0.12.7"
+    "bits-ui": "^0.21.12",
+    "clsx": "^2.1.1",
+    "path": "^0.12.7",
+    "tailwind-merge": "^2.4.0",
+    "tailwind-variants": "^0.2.1"
   }
 }
