@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Toxync Logo](path/to/logo.png)
-
 *A modern, sleek Tox client fostering secure communication and collaboration*
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/toxync)](https://goreportcard.com/report/github.com/yourusername/toxync)
